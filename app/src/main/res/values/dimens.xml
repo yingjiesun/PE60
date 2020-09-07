@@ -1,0 +1,13 @@
+<resources>
+    <dimen name="margin_small">5dp</dimen>
+    <dimen name="margin_medium">10dp</dimen>
+    <dimen name="margin_large">20dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="default_padding">16dp</dimen>
+    <dimen name="small">14dp</dimen>
+    <dimen name="medium">18dp</dimen>
+    <dimen name="large">20dp</dimen>
+    <dimen name="xlarge">22dp</dimen>
+    <dimen name="frag1_margin">50dp</dimen>
+    <dimen name="psi">50dp</dimen>
+</resources>

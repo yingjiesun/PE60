@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PE60</string>
+
+    <string name="action_connection">Connection</string>
+    <string name="action_operation">Operations</string>
+    <string name="action_notification">Notifications</string>
+    <string name="action_support">Support</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Connection</string>
+    <string name="second_fragment_label">Operations</string>
+    <string name="third_fragment_label">Notifications</string>
+    <string name="fourth_fragment_label">Support</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="psi">10,000</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment</string>
+    <string name="hello_third_fragment">Hello third fragment</string>
+    <string name="hello_fourth_fragment">Hello fourth fragment</string>
+    <string name="status">Motor Run Time,Power Disruption,A port Solenoid, B port Solenoid, Power up cyles,BrushInspect,Brush Replace,Faults,Power On,HighPresuure,Oil Replace</string>
+
+</resources>
